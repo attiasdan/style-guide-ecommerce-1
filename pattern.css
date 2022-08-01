@@ -51,3 +51,15 @@
     transform: scale(1.04);
     transition-duration: 0.35s;
 } */
+.card {
+    width: 18rem;
+    font-size: 1.6rem;
+}
+footer {
+    background-color: var(--footer-color);
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
